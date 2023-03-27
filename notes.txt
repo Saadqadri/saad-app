@@ -1,0 +1,16 @@
+1. Create Folder for new application 
+2. Go to express js docs 
+3. Go to getting started page 
+    a. Installing 
+        >>> npm init (To initialize an application process)
+        >>> npm install express
+
+    b. Run hello world code in app.js file 
+
+    c. Install nodemon which will restart your app after every change in the app 
+        >>> go to package.json 
+        >>> go to test variable 
+
+    d. res.send() is used to send the data from server to ui 
+
+    e. res.sendFile() is used to send the html file to the browser 
